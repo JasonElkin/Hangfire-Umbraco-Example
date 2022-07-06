@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangfireUmbraco", "HangfireUmbraco\HangfireUmbraco.csproj", "{80F9CE3C-4B2F-4EEA-B7C6-296CB2135635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F9CE3C-4B2F-4EEA-B7C6-296CB2135635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F9CE3C-4B2F-4EEA-B7C6-296CB2135635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F9CE3C-4B2F-4EEA-B7C6-296CB2135635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F9CE3C-4B2F-4EEA-B7C6-296CB2135635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03612A68-4E40-43C7-96ED-CDA2915F97DD}
+	EndGlobalSection
+EndGlobal
