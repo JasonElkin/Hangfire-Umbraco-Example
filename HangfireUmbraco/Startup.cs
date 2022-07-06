@@ -1,5 +1,8 @@
+using Cultiv.Hangfire;
 using HangfireUmbraco.Events;
+using Umbraco.Cms.Core.Composing;
 using Umbraco.Cms.Core.Notifications;
+[assembly: DisableComposer(typeof(HangfireComposer))]
 
 namespace HangfireUmbraco
 {

@@ -39,5 +39,8 @@ A minimal example using Hangfire in Umbraco that:
 
 1. Clone, and run.
 2. In the installer choose a DB type supported by Hangfire (SQL or LocalDb)
-3. Publish some content
-4. Check it works - in the console, or set a breakpoint.
+3. Let the installer run (starter kit will be installed)
+4. Stop & start the site.  
+(There's a bug in the HangfireComposer that I've partially fixed but need to spend more time looking at)
+4. Publish some content
+5. Check it works - in the console, or set a breakpoint.
