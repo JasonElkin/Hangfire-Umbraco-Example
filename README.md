@@ -1,6 +1,6 @@
 # Hangfire Umbraco Example
 
-A minimal example using Hangfire in Umbraco that:
+A minimal example using Hangfire with [Cultiv.Hangfire](https://github.com/nul800sebastiaan/Cultiv.Hangfire) in Umbraco that:
 
 1. Dynamically schedules tasks based on a notification
 
